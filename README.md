@@ -27,7 +27,7 @@ I took professional courses (MySQL, PostegreSQL, JavaScript, Python3, Logic and 
 contact:
 phone (62)999484341)
 
-email: lulkinhadourado@gmail.com
+email 2: lulkinhadourado@gmail.com
 
 linkedin: https://www.linkedin.com/in/lucas-dourado-b81b10179/
 
