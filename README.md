@@ -9,7 +9,7 @@ contato:
 
 telefone (62)999484341)
 
-email: lulkinhadourado@gmail.com
+email: lucasdouradodsouza@gmail.com
 
 linkedin: https://www.linkedin.com/in/lucas-dourado-b81b10179/
 
