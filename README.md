@@ -4,7 +4,7 @@ Cursando ADS (Análise e desenvolvimento de sistemas)
 
 Fazendo curso técnico Programador de Sistemas (senac)
 
-Fiz cursos profissionalizantes (MySQL, PostegreSQL, JavaScript, Python3, Lógica e Algoritmos)
+cursos profissionalizantes (MySQL, PostegreSQL, JavaScript, Python3, Lógica e Algoritmos, HTML, CSS, Low e NO Code)
 contato:
 
 telefone (62)999484341)
@@ -22,7 +22,7 @@ Studying ADS (Systems Analysis and Development)
 
 Taking a Systems Programmer technical course (senac)
 
-I took professional courses (MySQL, PostegreSQL, JavaScript, Python3, Logic and Algorithms)
+I took professional courses (MySQL, PostegreSQL, JavaScript, Python3, Logic and Algorithms, HTML, CSS, Low and NO Code)
 
 contact:
 phone (62)999484341)
